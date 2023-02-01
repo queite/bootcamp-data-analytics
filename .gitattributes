@@ -1,4 +1,5 @@
 # (wont-fix = https://github.com/github/linguist/issues/3496)
 # I simply exclude this file from counting now:
 
-Desafio_Python_Pandas.ipynb linguist-generated=true
+# Desafio_Python_Pandas.ipynb linguist-generated=true
+*.ipynb linguist-language=Python
